@@ -37,20 +37,12 @@ For a complete project tutorial guide with an in-depth explanation, check out ou
 
 ---
 
-## **🗂 Project Structure**
-
-/[Arduino-Smart-walking-stick](https://github.com/YogeshwaranP-05/Arduino-Smart-walking-stick)  
-|-- /Code                  \# Arduino sketch (.ino)  
-|-- /Circuit-Diagram       \# Circuit diagram and wiring illustrations
-
----
-
 ## **⚙️ Installation and Setup**
 
 ### **1\. Clone the Repository:**
 
-git clone [**https://github.com/YogeshwaranP-05/Arduino-Smart-walking-stick.git**](https://github.com/YogeshwaranP-05/Arduino-Smart-walking-stick.git)  
-cd [**Arduino-Smart-walking-stick**](https://github.com/YogeshwaranP-05/Arduino-Smart-walking-stick)
+git clone [**https://github.com/YogeshwaranP-05/Arduino-Smart-walking-stick.git**] 
+cd [**Arduino-Smart-walking-stick**]
 
 ### **2\. Connect Components:**
 
