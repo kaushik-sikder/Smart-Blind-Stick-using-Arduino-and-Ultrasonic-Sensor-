@@ -41,7 +41,7 @@ For a complete project tutorial guide with an in-depth explanation, check out ou
 
 ### **1\. Clone the Repository:**
 
-git clone [**https://github.com/YogeshwaranP-05/Arduino-Smart-walking-stick.git**] 
+git clone 
 cd [**Arduino-Smart-walking-stick**]
 
 ### **2\. Connect Components:**
